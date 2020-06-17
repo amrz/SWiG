@@ -1,3 +1,0 @@
-SWiG
-====
-Zadanie
